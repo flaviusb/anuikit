@@ -44,3 +44,5 @@ Real text areas.
 "Code on demand" eg Kropaya script tags or equivalent
 
 The equivalent of GL contexts or render contexts.
+
+Something something CLIM.
