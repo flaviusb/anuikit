@@ -34,3 +34,13 @@ Hypertext
 Applications can be smushed together or taken apart, and can be treated as hypertext.
 
 A display/interaction/sandbox layer, which is the 'user agent'?
+Resources and URLs across some kind of socket.
+A transport layer.
+Protocol.
+Mime types.
+
+Real text areas.
+
+"Code on demand" eg Kropaya script tags or equivalent
+
+The equivalent of GL contexts or render contexts.
