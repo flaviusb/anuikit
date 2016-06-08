@@ -26,6 +26,10 @@ Document
 - Machine exposed
 - Concept of sources, bindings, etc
 
+Chrome
+- The visible manifestation of a user agent
+- Window decoration, interactors etc.
+
 Reflow/Responsive design
 
 Hypertext
