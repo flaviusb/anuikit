@@ -1,5 +1,5 @@
 # anuikit
-An ui kit - styling/layout/kerning parts, widget parts, display, made of tags. I feel that my desires are *quite* reasonable.
+An ui kit - styling/layout/kerning parts, widget parts, display, window manager, made of tags. I feel that my desires are *quite* reasonable.
 
 There is nothing here at the moment.
 
@@ -39,6 +39,8 @@ A transport layer.
 Protocol.
 Mime types.
 
+The protocol should do snowflaking and pipelining in part through conneg and something like extended mime-types.
+
 Real text areas.
 
 "Code on demand" eg Kropaya script tags or equivalent
@@ -46,3 +48,5 @@ Real text areas.
 The equivalent of GL contexts or render contexts.
 
 Something something CLIM.
+
+Perhaps menus/ribbons/widgetbars/action bars on the top of the screen and (vim/emacs like) status line and command bar on the bottom of the screen for the focussed application. Glyphs on the title bar of windows for common status effects (eg unsaved changes, offline/online/autistic mode/background data/insecure connection, attention wanted, new message received, audio playing, wants to go fullscreen, permission request, authentication request, logged in/out, etc etc etc). Vim for everything. Focus, attention, and backgrounded/suspended status through shades + glow.
