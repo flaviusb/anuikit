@@ -34,6 +34,7 @@ Reflow/Responsive design
 
 Hypertext
 - Like HTML forms, but allows all levels/methods - eg full hypertext
+- Transclusion?
 
 Applications can be smushed together or taken apart, and can be treated as hypertext.
 
