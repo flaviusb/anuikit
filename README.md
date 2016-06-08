@@ -44,7 +44,8 @@ A transport layer.
 Protocol.
 Mime types.
 
-The protocol should do snowflaking and pipelining in part through conneg and something like extended mime-types.
+The protocol should do snowflaking and pipelining in part through conneg and something like extended mime-types. So options range from all in place in the document, through to 'associated resource push', keepalive + multiplexing + multifetch, just keepalive, to only get the named resource + connection close at the fully unsnowflaked end.
+Note: ETags vs If-Modified-Since
 
 Real text areas.
 
