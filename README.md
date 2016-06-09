@@ -55,7 +55,7 @@ The equivalent of GL contexts or render contexts.
 
 Something something CLIM.
 
-Perhaps menus/ribbons/widgetbars/action bars on the top of the screen and (vim/emacs like) status line and command bar on the bottom of the screen for the focussed application. Glyphs on the title bar of windows for common status effects (eg unsaved changes, offline/online/autistic mode/background data/insecure connection, attention wanted, new message received, audio playing, wants to go fullscreen, permission request, authentication request, logged in/out, etc etc etc). Vim for everything. Focus, attention, and backgrounded/suspended status through shades + glow.
+Perhaps menus/ribbons/widgetbars/action bars on the top of the screen and (vim/emacs like) status line and command bar on the bottom of the screen for the focussed application. Glyphs on the title bar of windows for common status effects (eg unsaved changes, offline/online/autistic mode/background data/insecure connection, attention wanted, new message received, audio playing, wants to go fullscreen, permission request, authentication request, logged in/out, etc etc etc). Vim for everything. Focus, attention, and backgrounded/suspended status through shades + glow + blur + frosted glass + water + smoke + etc etc.
 
 Stained glass style translucency?
 
