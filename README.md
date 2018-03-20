@@ -5,6 +5,28 @@ There is nothing here at the moment.
 
 ---
 
+'Layers':
+
+The layers are actually somewhat intertwined.
+
+
+Windowing system layer
+- Distributed database with visual side effects
+- Instead of lots of different operations, you have some basic select, update, insert
+- There are limits on what you can do based on capability tokens
+- You can add in 'callback' type things
+- Certain i/o type things will be reflected in the db eg selection, focus
+- Sockets plus capability tokens plus a way to create/allocate 'displays' plus vector clocks give us network transparency 'ish'
+
+Widget toolkit layer
+
+
+Desktop Environment layer
+- This is where the system overlay lives
+- This is also where the 'application integrations' live
+
+---
+
 Parts:
 
 Styling
@@ -64,3 +86,6 @@ Systray, notifications, and android like quick widgets/notification cards.
 Translucency, brightness/saturation, and z-order all different aspects of focus.
 
 System overlay for system menus, system command bar etc. This lets you edit system buffers to do eg window management.
+
+Chrome/flash (glyphs etc)/content/styling/system overlay
+
