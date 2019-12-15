@@ -1,0 +1,27 @@
+An example of bits
+
+Menu
+- Chrome section
+- Pseudochrome section, with eg status bar, message section, application settings, data usage etc
+- Application section
+- Context sensitive section
+- Widgets/ribbons
+
+Windows
+- Buffer/tab navigation
+- Splits/Merges
+- Chrome
+- Decoration/glyphs on the window, in chrome
+
+Statusline/command bar
+- Supports whatever mode stuff for editing
+
+Visual select
+
+Command completion/application programmability exposed through command bar and scripting interfaces
+
+Scripting language
+
+---
+
+Styling/selectors/hypertext
