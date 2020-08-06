@@ -22,6 +22,12 @@ Command completion/application programmability exposed through command bar and s
 
 Scripting language
 
+Reified objects that users and code can interact with, whose status is reflected in the windowing toolkit, rather than direct ad hoc changes being made to the chrome/flash.
+- Focus model, which user input and applications can change and query in various ways, and which directs user input to processes and is visualised in gui state.
+- Notifications, which interacts with focus model (and settings object), and replaces the ad hoc 'status bar'.
+- Settings, where all applications can store their settings, so you have one place to edit them.
+- App statuses - number of new messages (possibly sorted into different mailboxes), saved/unsaved document status, cwd equivalent, 'busy' / 'working' / 'heavy processing' state, 'waiting for input' (which also interacts with Focus), network status (both reporting and setting, in different ways), chroot/permissions/etc status (which also interacts with settings)...
+
 ---
 
 Styling/selectors/hypertext
