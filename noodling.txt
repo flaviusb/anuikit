@@ -26,7 +26,7 @@ Reified objects that users and code can interact with, whose status is reflected
 - Focus model, which user input and applications can change and query in various ways, and which directs user input to processes and is visualised in gui state.
 - Notifications, which interacts with focus model (and settings object), and replaces the ad hoc 'status bar'.
 - Settings, where all applications can store their settings, so you have one place to edit them.
-- App statuses - number of new messages (possibly sorted into different mailboxes), saved/unsaved document status, cwd equivalent, 'busy' / 'working' / 'heavy processing' state, 'waiting for input' (which also interacts with Focus), network status (both reporting and setting, in different ways), chroot/permissions/etc status (which also interacts with settings)...
+- App statuses - number of new messages (possibly sorted into different mailboxes), saved/unsaved document status, cwd equivalent, tethering, 'busy' / 'working' / 'heavy processing' state, 'waiting for input' (which also interacts with Focus), network status (both reporting and setting, in different ways, but also things like GiTS 'autistic mode' (come up with a less nt name)), chroot/permissions/etc status (which also interacts with settings), remote/casting/client-server in the case where there is some client/server thing going on, like in x11 network transparency, so that you don't untether something and have your apps crash, but also these work in different ways and you should be able to find out what the exact kind is from window flair...
 
 ---
 
